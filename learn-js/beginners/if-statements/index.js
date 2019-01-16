@@ -14,6 +14,7 @@ if (a == 10) {
     //Statement
     console.log("Correct !!!");
 }
+//output : Correct !!!
 
 /*---------------------------------------------------------*/
 /*
@@ -33,6 +34,10 @@ if (b == 10) {
 } else {
     console.log("Please Check Your Number!!!");
 }
+
+//output : Please Check Your Number!!!
+
+
 
 
 /*---------------------------------------------------------*/
@@ -58,3 +63,5 @@ if (c == 10) {
 } else {
     console.log("Please Check Your Number!!!");
 }
+
+//output : Correct !!!
